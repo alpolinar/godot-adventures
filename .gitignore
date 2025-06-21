@@ -5,7 +5,7 @@
 # Godot-specific
 .import/           # Import cache (can be regenerated)
 .export/           # Export cache
-**/*.import           # Import metadata
+*.import           # Import metadata
 
 # Build directories
 bin/
