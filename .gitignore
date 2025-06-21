@@ -1,0 +1,37 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot-specific
+.import/           # Import cache (can be regenerated)
+.export/           # Export cache
+**/*.import           # Import metadata
+
+# Build directories
+bin/
+build/
+*.exe
+*.apk
+*.zip
+*.pck
+*.xcodeproj/
+*.sln
+*.csproj
+*.user
+*.mono/
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+*.log
+*.tmp
+*.bak
+
+# VSCode
+.vscode/
+
+# Godot mono (if using C#)
+.mono/
+
