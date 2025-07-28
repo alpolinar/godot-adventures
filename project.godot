@@ -28,6 +28,11 @@ folder_colors={
 "res://ninja-adventures/": "green"
 }
 
+[global_group]
+
+wall="A wall tilemap layer"
+pushable="A pushable objects group"
+
 [input]
 
 move_right={
